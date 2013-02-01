@@ -14,3 +14,9 @@ Please check your settings and adjust them to best fit your website. You can rea
 plugin that adds or removes features it may adjust your settings back to default and you will have to readjust your settings if this happens.
 
 //--------------------------------------------------------------+
+
+Support Links:
+
+Forums: http://www.aacgc.com/e107_plugins/forum/forum_viewforum.php?106
+Bugtracker: http://www.aacgc.com/e107_plugins/bug_tracker/bugs.php?0.view.62.0.0
+Wiki: 
