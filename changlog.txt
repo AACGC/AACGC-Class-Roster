@@ -1,0 +1,10 @@
+Added November 3rd, 2012 (v1.1):
+Option to manually order each rank
+Option to set max number of ranks that show for each user in profiles and forum posts
+
+Added November 3rd, 2012 (v1.2): (quick release)
+Fixed incorrect order if more than 10 userclasses used
+
+
+Added November 8th, 2012 (v1.3): (quick release)
+Fixed not being able to edit member profiles while class roster installed
